@@ -401,6 +401,10 @@ body {
       border: none;
     }
 
+    img {
+      max-width: 100%;
+    }
+
     pre.terminal {
       border: 1px solid #000;
       background-color: #333;
@@ -519,6 +523,10 @@ body {
     .home {
       padding-left: $sgap;
       padding-right: $sgap;
+    }
+
+    img {
+      max-width: 800px - $lgap*2;
     }
   }
 }
@@ -667,6 +675,10 @@ body {
 
   .page-contetn {
     max-width: 400px;
+
+    .post img {
+      max-width: 400px - 10px * 2;
+    }
   }
 }
 

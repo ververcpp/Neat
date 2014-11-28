@@ -1,0 +1,11 @@
+# Site settings
+title: Neat for Jekyll # replace by your title
+email: youremail@mail.com # your email address
+name: your name
+twitter: # your twitter id
+description: "Neat is a clean and responsive Jekyll theme."
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty

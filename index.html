@@ -12,13 +12,13 @@ layout: default
         <li>
           <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
           »
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
         </li>
       {% endfor %}
     </ul>
     
     {% if site.posts.size > 8 %}
-      <a href="/archive/" class="more">More..</a>
+      <a href="{{ site.url }}/archive/" class="more">More..</a>
     {% endif %}
   </section>
 </div>

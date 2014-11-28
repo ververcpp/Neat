@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Neat
-category: posts
 ---
 
 [Neat](https://github.com/ververcpp/Neat) is a clean theme for [Jekyll](http://jekyllrb.com 'Jekyll').

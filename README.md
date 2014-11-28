@@ -6,7 +6,7 @@ Neat is a clean theme for [Jekyll](http://jekyllrb.com 'Jekyll').
 
 ---
 
-![screenshoot2](http://ververcpp.github.io/images/neat-screenshoot2.png)
+![screenshoot2](http://ververcpp.github.io/images/neat-screenshoot2.png =160)
 
 ##Get start
 

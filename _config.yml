@@ -9,3 +9,4 @@ description: "Neat is a clean and responsive Jekyll theme."
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
+baseurl: Neat
